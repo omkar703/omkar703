@@ -1,6 +1,5 @@
-Here’s your customized GitHub profile README based on what I know about you and your expertise:
 
----
+
 
 <h2 align="left">Hi 👋! My name is Omkar Phadatare, and I'm a passionate developer and IoT enthusiast from India.</h2>
 
