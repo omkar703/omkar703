@@ -1,10 +1,11 @@
-# Hi there! <img src="https://i.pinimg.com/originals/f8/46/ff/f846ff732d55b7ac19d34009ab4a3606.gif" alt="rick_morty"  /> I'm **Omkar Phadatare**
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm **Omkar Phadatare**
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;IoT+%26+Robotics+Explorer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
-<img align="center" height="200" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+<img align="center" src="https://i.pinimg.com/originals/f8/46/ff/f846ff732d55b7ac19d34009ab4a3606.gif" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="25" height="25" /> Programming Languages
 
