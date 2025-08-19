@@ -99,13 +99,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" /> GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=omkar703&theme=github-dark-blue&no-bg=true&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity Graph" width="30" height="30" /> Contribution Activity
 
