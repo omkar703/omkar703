@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm **Omkar Phadatare**
+# Hi there! <img src="https://i.pinimg.com/originals/f8/46/ff/f846ff732d55b7ac19d34009ab4a3606.gif" alt="rick_morty"  /> I'm **Omkar Phadatare**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;IoT+%26+Robotics+Explorer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
