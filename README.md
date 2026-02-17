@@ -59,9 +59,6 @@ Turning complex problems into elegant solutions 🚀
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center"><b>🏆 Open Source Contribution : Hacktoberfest 2025 🏆</b></h3>
-<div align="center"><b>🌱 Proud Hacktoberfest Contributor 🌱</b></div>
-
 <hr>
 
 <p align='center'>
@@ -70,7 +67,7 @@ Turning complex problems into elegant solutions 🚀
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=520&lines=I'm+an+AI+%26+ML+Enthusiast;IoT+%26+Robotics+Explorer;Always+Building+Something+Cool)](https://git.io/typing-svg)
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 
 <!-- About -->
 <p align='left'>
