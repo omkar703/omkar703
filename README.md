@@ -1,54 +1,177 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> I'm **Omkar Phadatare**
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;IoT+%26+Robotics+Explorer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+<a href="mailto:omkarph30@gmail.com">
+<img src="https://img.shields.io/badge/My%20Email-%40Omkar-blue" width="200" height="35">
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35">
+</a>
 
 </div>
-<div align="center">
-<img align="center" src="https://i.pinimg.com/originals/f8/46/ff/f846ff732d55b7ac19d34009ab4a3606.gif" />
+
+<!-- Heading and BIO -->
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32">, I am Omkar Phadatare</h1>
+
+<div align="center" width="150px">
+
+B.Tech Student | AI & ML Enthusiast • IoT & Robotics Explorer • Problem Solver  
+Turning complex problems into elegant solutions 🚀
+
 </div>
 
-# About Me:
-🔭 Currently working on AI/ML and robotics projects<br>🌱 Exploring advanced deep learning architectures and edge computing<br>💡 Interested in computer vision, autonomous systems, and cloud infrastructure<br>📫 Reach me at omkarph30@gmail.com<br>⚡ Fun fact: I love turning complex problems into elegant solutions<br>
+<!-- Profile Views -->
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=omkar703&label=Profile%20views&color=0e75b6&style=flat" />
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/omkar703">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/omkar703">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<!-- Language Charts -->
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omkar703&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="500" alt="stats graph" />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkar703&theme=tokyonight" height="300"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkar703&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omkar703&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar703&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omkar703&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=omkar703&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📈 Contribution Graph
-
+<!-- Contact Section -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar703&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+
+<h3><b>📞 Connect with me</b></h3>
+
+<p>
+
+<a href="mailto:omkarph30@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" />
+</a>
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
+</a>
+
+</p>
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect
+<h3 align="center"><b>🏆 Open Source Contribution : Hacktoberfest 2025 🏆</b></h3>
+<div align="center"><b>🌱 Proud Hacktoberfest Contributor 🌱</b></div>
 
-I'm always interested in collaborating on innovative projects or discussing ideas in AI, robotics, and software development!
+<hr>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarph30@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+</p>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=520&lines=I'm+an+AI+%26+ML+Enthusiast;IoT+%26+Robotics+Explorer;Always+Building+Something+Cool)](https://git.io/typing-svg)
+
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+
+<!-- About -->
+<p align='left'>
+
+- 🔭 Currently working on **AI/ML and Robotics** projects  
+- 🌱 Exploring **advanced deep learning architectures and edge computing**  
+- 💡 Interested in **Computer Vision, Autonomous Systems & Cloud Infrastructure**  
+- 🤝 Love collaborating & building impactful products  
+- 🥅 **2026 Goal:** Build intelligent, real-world software solutions  
+- ⚡ I believe tech should solve real problems 😎  
+
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27"><i> Skills: </i>
+
+<p align='right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+
+#### 🦖 Languages
+
+- ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+#### 🤖 AI / ML & Data Science
+
+- ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+  ![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+  ![](https://img.shields.io/badge/MLflow-d9ead3?style=flat&logo=numpy&logoColor=blue)
+  ![](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
+  ![](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=green)
+
+#### 📚 Frontend & Frameworks
+
+- ![](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+  ![](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
+
+#### ⛏️ Backend, Databases & DevOps
+
+- ![](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+  ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+  ![](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)
+- ![](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+  ![](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+  ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+  ![](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+- ![](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+  ![](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+  ![](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+  ![](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+  ![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+#### 🤖 IoT & Robotics
+
+- ![](https://img.shields.io/badge/ROS-0A0FF9?style=flat&logo=ros&logoColor=white)
+  ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
+
+#### 🚦 Version Control & Tools
+
+- ![](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white)
+  ![](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+  ![](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+<!-- Skill Section End -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contribution Stack -->
+<h1 align="center"><i>Contribution Stack ✌️</i></h1>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omkar703&hide_border=true&theme=highcontrast" />
+</p>
+
+<!-- Activity Graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=omkar703&theme=tokyo-day)
+
+<p align="center">
+<img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkar703&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** ⭐
+  <b>Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! ⭐</b>
 </div>
